@@ -13,7 +13,7 @@ function App() {
       <BannerMain
           videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
           url={dadosIniciais.categorias[0].videos[0].url}
-          videoDescription={"O que é Front-end? Trabalhando na áea os termos HTML, css e JavaScript fazem parte das desenvolvedoras e desenvolvedores. Mas o que eles fazem? Descubra com a Vanessa!"}
+          videoDescription={"O que é React? Aprenda o que é React JavaScript e entenda como essa ferramenta pode otimizar e acelear seu processo de trabalho como desenvolvedor ou desenvolvedora!"}
           />
 
       <Carousel
@@ -29,7 +29,6 @@ function App() {
           category={dadosIniciais.categorias[2]} />
       
       <Carousel
-          ignoreFirstVideo
           category={dadosIniciais.categorias[3]} />
       
       <Carousel
@@ -40,6 +39,7 @@ function App() {
           ignoreFirstVideo
           category={dadosIniciais.categorias[5]} />
       
+      <Footer />
     </div>
   );
 }

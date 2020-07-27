@@ -10,36 +10,28 @@
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "O que é ReactJs? #ImersaoReact",
+          "url": "https://www.youtube.com/watch?v=6IuQUgeDPg0"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Criando um Carousel do Zero só com CSS",
+          "url": "https://www.youtube.com/watch?v=SGwHpzgqzgk"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Desvendando o CSS Grid na prática",
+          "url": "https://www.youtube.com/watch?v=HN1UjzRSdBk"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
-        },
-        {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Recriando a Interface do Discord com ReactJS",
+          "url": "https://www.youtube.com/watch?v=x4FdZd2-_uU&t=96s"
         },
         {
           "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
           "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
+        },        
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Iniciando com React",
+          "url": "https://www.youtube.com/watch?v=7A4UQGrFU9Q"
         }        
       ]
     },
@@ -56,46 +48,54 @@
           "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "O que é NodeJS",
+          "url": "https://www.youtube.com/watch?v=GKR6uSvEj8w"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Me veja programar um Backend que troca informação em tempo-real!",
+          "url": "https://www.youtube.com/watch?v=rc3SSOiwTns"
         },
         {
           "titulo": "API: Dicionário do Programador",
           "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Descomplicando MVC com PHP do Jeito Certo",
+          "url": "https://www.youtube.com/watch?v=MfZrnQprZ2U"
+        }, 
+        {
+          "titulo": "Seja um Programador Back-End de Sucesso",
+          "url": "https://www.youtube.com/watch?v=TJ90DZjYdWI"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Desenhos",
       "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
       "videos": [
         {
           "titulo": "Teste de Turing",
           "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Steven Universo",
+          "url": "https://www.youtube.com/watch?v=B-G4BNVLuSU"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Gravity Falls",
+          "url": "https://www.youtube.com/watch?v=-kD0Z23EaUw"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "O incrível mundo de Gumball",
+          "url": "https://www.youtube.com/watch?v=vvyVQ426oxs"
+        },
+        {
+          "titulo": "Ursos Sem Curso",
+          "url": "https://www.youtube.com/watch?v=Ob_f4-9cRRw"
+        },
+        {
+          "titulo": "KIPO",
+          "url": "https://www.youtube.com/watch?v=ouMBWjWJays"
         }
       ]
     },
@@ -104,26 +104,30 @@
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Vingadores Ultimato",
+          "url": "https://www.youtube.com/watch?v=g6ng8iy-l0U"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Harry Potter e as Relíquias da Morte: Parte",
+          "url": "https://www.youtube.com/watch?v=_EC2tmFVNNE&t=40s"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "O Rei Leão | Trailer Legendado",
+          "url": "https://www.youtube.com/watch?v=WBDAsucUg58"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "A Origem",
+          "url": "https://www.youtube.com/watch?v=1o-BXdu_bC0"
+        },
+        {
+          "titulo": "Homem-amanha no Aranhaverso",
+          "url": "https://www.youtube.com/watch?v=SS6ABPkfmBE"
         }
       ]
     },
     {
       "titulo": "Games",
-      "cor": "red",
+      "cor": "#F00",
       "link_extra": {
         "text": "Formação de Jogos na Alura",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
@@ -142,42 +146,46 @@
           "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "The Last of Us",
+          "url": "https://www.youtube.com/watch?v=5M3ChH1QlQ4"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "EPICENTER 2017 - SK Gaming vs. Virtus.Pro (Mapa 3 - Train) - Narração PT-BR",
+          "url": "https://www.youtube.com/watch?v=fzPsJVgiwDc"
+        },
+        {
+          "titulo": "A Ascensão de Celeste",
+          "url": "https://www.youtube.com/watch?v=X3xl16D1U34"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Música",
       "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
       "videos": [
         {
           "titulo": "Como estudar melhor?",
           "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "The Neighbourhood - Sweater Weather",
+          "url": "https://www.youtube.com/watch?v=GCdwKhTtNNw"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Supercombo - Amianto",
+          "url": "https://www.youtube.com/watch?v=2CMF2ZHbccs"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Scalene - Casa Aberta",
+          "url": "https://www.youtube.com/watch?v=XGB_rosENec"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Do I Wanna Know?",
+          "url": "https://www.youtube.com/watch?v=bpOSxM0rNPM"
+        },
+        {
+          "titulo": "Hey Jude",
+          "url": "https://www.youtube.com/watch?v=7qMls5yxP1w"
         }
       ]
     }
